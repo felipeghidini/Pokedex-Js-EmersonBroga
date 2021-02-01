@@ -31,7 +31,7 @@ html, body {
     background: linear-gradient(to top right, var(--fire), var(--card-bg) 25%);
 }
 .fire {
-  background-color: var(--fire),;
+  background-color: var(--fire);
 }
 
 
@@ -39,7 +39,7 @@ html, body {
     background: linear-gradient(to top right, var(--grass), var(--card-bg) 25%);
 }
 .grass {
-  background-color: var(--grass),;
+  background-color: var(--grass);
 }
 
 
@@ -47,7 +47,7 @@ html, body {
     background: linear-gradient(to top right, var(--electric), var(--card-bg) 25%);
 }
 .electric {
-  background-color: var(--electric),;
+  background-color: var(--electric);
 }
 
 
@@ -55,7 +55,7 @@ html, body {
     background: linear-gradient(to top right, var(--water), var(--card-bg) 25%);
 }
 .water {
-  background-color: var(--water),;
+  background-color: var(--water);
 }
 
 
@@ -63,7 +63,7 @@ html, body {
     background: linear-gradient(to top right, var(--ground), var(--card-bg) 25%);
 }
 .ground {
-  background-color: var(--ground),;
+  background-color: var(--ground);
 }
 
 
@@ -71,7 +71,7 @@ html, body {
     background: linear-gradient(to top right, var(--rock), var(--card-bg) 25%);
 }
 .rock {
-  background-color: var(--rock),;
+  background-color: var(--rock);
 }
 
 
@@ -79,7 +79,7 @@ html, body {
     background: linear-gradient(to top right, var(--fairy), var(--card-bg) 25%);
 }
 .fairy {
-  background-color: var(--fairy),;
+  background-color: var(--fairy);
 }
 
 
@@ -87,7 +87,7 @@ html, body {
     background: linear-gradient(to top right, var(--poison), var(--card-bg) 25%);
 }
 .poison {
-  background-color: var(--poison),;
+  background-color: var(--poison);
 }
 
 
@@ -95,7 +95,7 @@ html, body {
     background: linear-gradient(to top right, var(--bug), var(--card-bg) 25%);
 }
 .bug {
-  background-color: var(--bug),;
+  background-color: var(--bug);
 }
 
 
@@ -103,7 +103,7 @@ html, body {
     background: linear-gradient(to top right, var(--dragon), var(--card-bg) 25%);
 }
 .dragon {
-  background-color: var(--dragon),;
+  background-color: var(--dragon);
 }
 
 
@@ -111,7 +111,7 @@ html, body {
     background: linear-gradient(to top right, var(--psychic), var(--card-bg) 25%);
 }
 .psychic {
-  background-color: var(--psychic),;
+  background-color: var(--psychic);
 }
 
 
@@ -119,7 +119,7 @@ html, body {
     background: linear-gradient(to top right, var(--flying), var(--card-bg) 25%);
 }
 .flying {
-  background-color: var(--flying),;
+  background-color: var(--flying);
 }
 
 
@@ -127,7 +127,7 @@ html, body {
     background: linear-gradient(to top right, var(--fighting), var(--card-bg) 25%);
 }
 .fighting {
-  background-color: var(--fighting),;
+  background-color: var(--fighting);
 }
 
 
@@ -135,7 +135,7 @@ html, body {
     background: linear-gradient(to top right, var(--normal), var(--card-bg) 25%);
 }
 .normal {
-  background-color: var(--normal),;
+  background-color: var(--normal);
 }
 
 body {
